@@ -9,8 +9,8 @@ const client = new Discord.Client();
 app.use(bodyParser.json());
 
 //******************************************************************************
-const token = '';
-const port = 8080;
+const token = 'NTU1NzE1ODA3NjExNDUzNDQy.D3Zbtg.L-N8bZliUHNSB_c22o6_4xsAxXc';
+const port = 3000;
 const hostlink = "";
 prefix = '!';
 //******************************************************************************
